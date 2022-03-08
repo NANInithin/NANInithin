@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @NANInithin
 - 👀 I’m interested in Image Processing
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning open cv
+- 💞️ I’m looking to collaborate on Image Processing Projects
 - 📫 naniknsk2002@gmail.com
 
 <!---
