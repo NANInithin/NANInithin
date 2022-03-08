@@ -2,7 +2,7 @@
 - 👀 I’m interested in Image Processing
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 naniknsk2002@gmail.com
 
 <!---
 NANInithin/NANInithin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
